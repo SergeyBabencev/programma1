@@ -1,2 +1,2 @@
-# programma1
+# Блочная сортировка
 block sort
